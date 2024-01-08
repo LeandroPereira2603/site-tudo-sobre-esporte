@@ -1,10 +1,8 @@
 
 
-# site : Tudo sobre o esporte 
+# site : Tudo sobre o esporte
 
-
- ## :books: Projeto Integrado
- ### Desenvolvimento do site  
+## Desenvolvimento do site  
  
 - [x] Layount menu de navegaçâo 
 * - [X] 1 - Layount
