@@ -1,6 +1,6 @@
 
- ## Acesso ao site:
- ### https://leandroluizpereira.github.io/project-web-sport/
+
+# site : Tudo sobre o esporte 
 
 
  ## :books: Projeto Integrado
@@ -54,14 +54,6 @@
 - [X] imagens de lincença
 - [X] imagens sem licença
 
-### Versão php mysql
-
-- [x] PHP
-- [x] banco de dados - Sistema que cadastra vários usuários.
-
-[project-web-spot-php-mysql](https://github.com/leandroluizpereira/project-web-spot-php-mysql)
-
-
  
 ## Escolha do Protótico de desenvolvimento
 - [x] Figma
@@ -73,12 +65,11 @@
 - [x] 3 - Prototype - Inserido todas as interações de navegação de páginas .
 
 
-
 ## Modelagem conceitual
 - [x] brModelo
 
+![imagem]
 
-![imagem](https://github.com/leandroluizpereira/project-web-sport/blob/main/modelo-conceitual.png)
 
 ## Sobre Webp
 
