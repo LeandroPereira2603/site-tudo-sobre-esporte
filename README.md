@@ -1,6 +1,6 @@
 
 
-# site : Tudo sobre o esporte
+# Site : Tudo sobre o esporte
 
 ## Desenvolvimento do site  
  
