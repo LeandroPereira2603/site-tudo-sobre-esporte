@@ -74,10 +74,6 @@
 
 
 
-![imagem](https://github.com/leandroluizpereira/project-web-sport/blob/main/figma1.png)
-
-
-
 ## Modelagem conceitual
 - [x] brModelo
 
@@ -103,3 +99,13 @@
  ## Sobre Github Pages
 O GitHub Pages é um serviço de hospedagem de site estático que usa arquivos HTML, CSS e JavaScript ... O GitHub Pages infelizmente não aceita linguagens de servidor como PHP, Ruby ou Python
 
+> [!Warning] 
+> Refaturar o código 
+
+### Lista 
+
+- [ ] No fórmulario está tendo quebra de layout para celular .
+
+- [ ] A imagem png do Michael Jordan esta tendo quebra de layout .
+
+- [ ] O fundo da tela de cadastro esta mau formatado 
