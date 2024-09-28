@@ -71,11 +71,18 @@ p{
     height: 100%;
     margin: auto;
 }
+
+/* error :  Design da margin */  
+
 fieldset{
+
     border-radius: 8px;
     border-color: #D9AD5B;
-    margin: 15px;
+    margin: 0% 5% 0% 5% ; 
+    /* before : margin: 15px;*/
+
 }
+
 legend{
     color: #D9AD5B;
     font-weight: bold;
